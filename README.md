@@ -10,6 +10,6 @@ Adafruit login page https://io.adafruit.com/
 Thingsboard login page http://demo.thingsboard.io/
 More about MQTT http://www.steves-internet-guide.com/mqtt/
 
-Feedback form: https://forms.gle/E6n5ij7TCZ1kMd457
+Feedback form: https://forms.gle/9baf4of7XkL5EZ679
 
 
